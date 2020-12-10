@@ -2,7 +2,7 @@ version: ~> 1.0
 language: node_js
 os:
  - linux
- arch:
+arch:
  - amd64
  - ppc64le
 import:
